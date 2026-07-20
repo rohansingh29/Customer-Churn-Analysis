@@ -50,7 +50,7 @@ Customer-Churn-Analysis
 # Dashboard Preview
 
 
-![Dashboard](Images/Dashboard.jpg)
+![Dashboard](Dashboard.jpg)
 
 
 # Key Insights
@@ -86,5 +86,3 @@ Customer-Churn-Analysis
 
 **Rohan Singh**
 
-
-💻 GitHub: https://github.com/rohansingh29
