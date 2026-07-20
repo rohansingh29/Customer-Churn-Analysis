@@ -23,29 +23,6 @@ This project analyzes customer churn data to identify the key factors influencin
 - Power BI
 - Microsoft Excel
 
----
-
-# Project Structure
-
-Customer-Churn-Analysis
-│
-├── Dataset
-│   └── Churn_Dataset.csv
-│
-├── SQL
-│   └── Churn_Project.sql
-│
-├── Python
-│   └── Churn_Analysis.ipynb
-│
-├── PowerBI
-│   └── Churn_Dashboard.pbix
-│
-├── Images
-│   └── Dashboard.jpg
-│
-└── README.md
-``
 
 # Dashboard Preview
 
